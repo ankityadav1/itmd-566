@@ -1,5 +1,5 @@
 # Group 4 Final project <br/>
-## Informationn:
+## Information:
 
 This is an web service application which provides the user to either Rent a Car based on the Airport Location and Buy a car.
 
